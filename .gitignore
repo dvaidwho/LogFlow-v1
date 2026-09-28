@@ -1,0 +1,8 @@
+# Never commit real resume/posting text, keys, or recorded outputs
+.env
+evals/**/fixtures/
+evals/**/postings/
+evals/**/recorded/
+
+# macOS
+.DS_Store
