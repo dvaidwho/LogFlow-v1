@@ -7,11 +7,7 @@ Under the hood it's a full pipeline: a Manifest V3 extension → an AWS Lambda b
 > **📂 About this repo.** This is the public portfolio view of LogFlow — it includes the **evaluation harness**, the **scoring logic**, and the **deterministic keyword-coverage metric** (the parts I most want reviewed). The full extension source (UI, page scraper, Google + AWS integration) is kept private during active development and opened up as it's cleaned. Happy to walk through any of it.
 
 ## What LogFlow solves
-I was job searching with AI and had too many tabs open, plus a Google Sheet to track every job. Clicking back and forth was such a pain.
-
-Some job listings are from fake companies and need more investigation.
-
-I didn't want my personal and resume information being sent to unverified companies.
+While job searching with AI, I had too many tabs open, plus a Google Sheet to track every job. Clicking back and forth was a pain. Some job listings are from fake companies and need more investigation. I didn't want my personal and resume information being sent to unverified companies.
 
 ## Features
 
